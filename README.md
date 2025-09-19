@@ -1,15 +1,6 @@
 # iot-weather-tracking-app
 Python IoT project for monitoring real-time weather conditions and evaluating forecast accuracy using data from the Open-Meteo API.
 
-iot-weather-tracking-app/
-│
-├── weather_loop.py         # Collects real-time and forecast data continuously
-├── calculate_mse.py        # Calculates Mean Square Error
-├── visualize_weather.py    # Generates graphs and Tkinter dashboard
-├── weather_data.csv        # Example dataset (3 days of data)
-├── README.md               # Documentation
-└── requirements.txt        # Libraries needed
-
 requirements.txt
 pandas
 matplotlib
